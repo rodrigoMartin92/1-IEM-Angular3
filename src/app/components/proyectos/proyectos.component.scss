@@ -1,0 +1,29 @@
+._titulos1{
+  h3{
+      background-color: #99f;
+  }
+}
+
+._pagPrincipal{
+  padding: 20px 0;
+}
+._contenidos1{
+  background-color: #ccc;
+}
+/* ####### Funcionalidad Radios ####### */
+.dNone{
+  display: none;
+}
+.labelTitulo1{
+  width: 100%;
+}
+/* ID radios 2 */
+#idRadioT2-1:checked ~ #idTitulo2-1{
+  display: block;
+}
+#idRadioT2-2:checked ~ #idTitulo2-2{
+  display: block;
+}
+#idRadioT2-3:checked ~ #idTitulo2-3{
+  display: block;
+}

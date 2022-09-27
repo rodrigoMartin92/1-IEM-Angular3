@@ -1,0 +1,51 @@
+._titulos1{
+  h3{
+      background-color: #99f;
+  }
+}
+
+._pagPrincipal{
+  padding: 20px 0;
+}
+._contenidos1{
+  background-color: #ccc;
+}
+/* ####### Funcionalidad Radios ####### */
+.dNone{
+  display: none;
+}
+.labelTitulo1{
+  width: 100%;
+}
+
+/* ID radios 3 */
+#idRadioT3-1:checked ~ #idTitulo3-1{
+  display: block;
+}
+#idRadioT3-2:checked ~ #idTitulo3-2{
+  display: block;
+}
+#idRadioT3-3:checked ~ #idTitulo3-3{
+  display: block;
+}
+#idRadioT3-4:checked ~ #idTitulo3-4{
+  display: block;
+}
+#idRadioT3-5:checked ~ #idTitulo3-5{
+  display: block;
+}
+#idRadioT3-6:checked ~ #idTitulo3-6{
+  display: block;
+}
+#idRadioT3-7:checked ~ #idTitulo3-7{
+  display: block;
+}
+#idRadioT3-8:checked ~ #idTitulo3-8{
+  display: block;
+}
+#idRadioT3-9:checked ~ #idTitulo3-9{
+  display: block;
+}
+#idRadioT3-10:checked ~ #idTitulo3-10{
+  display: block;
+}

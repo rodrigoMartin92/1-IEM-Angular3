@@ -1,0 +1,23 @@
+.header {
+  background-color: #55f;
+  h1,h2{
+    color: #fff;
+  }
+  .logo {
+    max-height: 500px;
+    max-width: 100%;
+    margin: 60px 0;
+    /*   background-color: #fff; */
+  }
+}
+
+nav {
+  background-color: #88d;
+  h4{
+    padding: 10px;
+    margin: 5px;
+    background-color: #66d;
+    border-radius: 10px;
+    border: #44d solid 5px;
+  }
+}
